@@ -1,0 +1,16 @@
+{
+   "editor.formatOnSave": true,
+   "python.linting.pycodestyleEnabled": false,
+   "python.linting.pylintPath": "pylint",
+   "python.linting.pylintArgs": [
+      "--load-plugins",
+      "pylint_django",
+      "--errors-only"
+   ],
+   "python.linting.pylintEnabled": true,
+   "python.venvPath": "${workspaceFolder}/env/bin/python3",
+   "files.autoSave": "afterDelay",
+   "editor.fontSize": 12,
+   "editor.codeActionsOnSave": null,
+   "python.pythonPath": "env/bin/python"
+}
